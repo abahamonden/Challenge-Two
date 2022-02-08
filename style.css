@@ -1,0 +1,99 @@
+
+.titulo {
+  padding: 15px;
+  width: 30vw;
+  margin: auto;
+
+}
+
+.btnInicio {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: limegreen;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  text-align: center;
+  transition-duration: 0.4s;
+  float: center;
+  word-wrap: break-word;
+}
+
+.btnInicio:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid limegreen;
+}
+
+.btnAgregar {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: limegreen;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  text-align: center;
+  transition-duration: 0.4s;
+  float: center;
+  word-wrap: break-word;
+}
+
+.btnAgregar:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid limegreen;
+}
+
+.btnreIniciar {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: limegreen;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  text-align: center;
+  transition-duration: 0.4s;
+  float: center;
+  word-wrap: break-word;
+}
+
+.btnreIniciar:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid limegreen;
+}
+
+.text-input {
+  border-radius: 0.5em;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  padding: 0.5em;
+  width: 30%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  background-color: black;
+  position: inherit;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+  text-align: right;
+  font-size: 12px
+}
+
